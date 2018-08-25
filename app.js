@@ -22,7 +22,9 @@ app.use((err, req, res, next) => {
     res.render('error');
 });
 
-app.listen(3000, () => {
+const port = process.env.PORT || 3000;
+
+app.listen(port, () => {
     const date = new Date();
     console.log('started on ' + date);
 });
