@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  div
+    h1= `${error.message}`
+    p.lead.text-light=  `Status: ${error.status}`
