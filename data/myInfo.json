@@ -1,0 +1,42 @@
+{
+    "data": {
+        "profile": {
+            "name": "Kalvin Bunn",
+            "email": "mrbunn@me.com",
+            "phone": "208-250-7331",
+            "skills": ["JavaScript", "node.js", "Express", "HTML", "CSS", "pug"]
+        },
+        "projects": [
+            {
+                "title": "This is a title",
+                "description": "this is some text to help practice a description. I am making up more words to take up space. Speaking of space... Space Force!!",
+                "tech": ["html", "css", "JavaScript"],
+                "demo": "http://www.mrbunn.com/demo",
+                "gitRepo": "http://www.mrbunn.com/git",
+                "img1": "",
+                "img2": "",
+                "img3": ""
+            },
+            {
+                "title": "This is another title",
+                "description": "this is some text to help practice a description. I am making up more words to take up space. Speaking of space... Space Force!!",
+                "tech": ["html", "css", "JavaScript"],
+                "demo": "http://www.mrbunn.com/demo",
+                "gitRepo": "http://www.mrbunn.com/git",
+                "img1": "",
+                "img2": "",
+                "img3": ""
+            },
+            {
+                "title": "This is a 3rd title",
+                "description": "this is some text to help practice a description. I am making up more words to take up space. Speaking of space... Space Force!!",
+                "tech": ["html", "css", "JavaScript"],
+                "demo": "http://www.mrbunn.com/demo",
+                "gitRepo": "http://www.mrbunn.com/git",
+                "img1": "",
+                "img2": "",
+                "img3": ""
+            }
+        ]
+    } 
+}
