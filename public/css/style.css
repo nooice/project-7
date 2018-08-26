@@ -31,11 +31,11 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #2d435d;
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: rgba(55, 82, 113, 0.76);
 }
 
 a{
@@ -58,7 +58,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #2d435d;
   color: #fff;
   box-shadow: none !important;
 }
@@ -71,7 +71,7 @@ a:hover{
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: #ababab;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -79,7 +79,7 @@ a:hover{
   }
 
   .portfolio-me a:hover{
-    color: #999;
+    color: #d1d1d1;
   }
 
 .portfolio-breadcrumb{
