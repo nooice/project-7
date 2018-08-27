@@ -8,7 +8,9 @@ app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
 const mainRoutes = require('./routes');
+const projectRoutes = require('./routes/project');
 app.use(mainRoutes);
+app.use("/project", projectRoutes);
 
 app.use((req, res, next) => {
     const err = new Error('Not Found');

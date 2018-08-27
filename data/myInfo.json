@@ -8,34 +8,59 @@
         },
         "projects": [
             {
-                "title": "This is a title",
-                "description": "this is some text to help practice a description. I am making up more words to take up space. Speaking of space... Space Force!!",
+                "title": "Quote Generator",
+                "description": "A project to practice my knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator. This page displays a randomly selected quote each time the user clicks a button. Quote will also reload, after a few seconds, if no one interacts with the page.",
                 "tech": ["html", "css", "JavaScript"],
-                "demo": "http://www.mrbunn.com/demo",
-                "gitRepo": "http://www.mrbunn.com/git",
-                "img1": "",
-                "img2": "",
-                "img3": ""
+                "demo": "http://bunnana.com/projects/quoteGen/",
+                "gitRepo": "https://github.com/nooice/Quote-Generator",
+                "img1": "/static/img/p1-1.jpg",
+                "img2": "/static/img/p1-2.jpg",
+                "img3": "/static/img/p1-3.jpg",
+                "thumb": "/static/img/p1-4.jpg"
             },
             {
-                "title": "This is another title",
-                "description": "this is some text to help practice a description. I am making up more words to take up space. Speaking of space... Space Force!!",
+                "title": "Pagination & Content Filter",
+                "description": "Long lists don't make for a good user experience on a web page. In this project, I enhanced the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into \"pages\". I also added a search feature to display only the students that match the search criteria.",
                 "tech": ["html", "css", "JavaScript"],
-                "demo": "http://www.mrbunn.com/demo",
-                "gitRepo": "http://www.mrbunn.com/git",
-                "img1": "",
-                "img2": "",
-                "img3": ""
+                "demo": "http://bunnana.com/projects/pagination/",
+                "gitRepo": "https://github.com/nooice/Project-2",
+                "img1": "/static/img/p2-1.jpg",
+                "img2": "/static/img/p2-2.jpg",
+                "img3": "/static/img/p2-3.jpg",
+                "thumb": "/static/img/p2-4.jpg"
             },
             {
-                "title": "This is a 3rd title",
-                "description": "this is some text to help practice a description. I am making up more words to take up space. Speaking of space... Space Force!!",
+                "title": "Interactive Form",
+                "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
                 "tech": ["html", "css", "JavaScript"],
-                "demo": "http://www.mrbunn.com/demo",
-                "gitRepo": "http://www.mrbunn.com/git",
-                "img1": "",
-                "img2": "",
-                "img3": ""
+                "demo": "http://bunnana.com/projects/form/",
+                "gitRepo": "https://github.com/nooice/project-3",
+                "img1": "/static/img/p3-1.jpg",
+                "img2": "/static/img/p3-2.jpg",
+                "img3": "/static/img/p3-3.jpg",
+                "thumb": "/static/img/p3-4.jpg"
+            },
+            {
+                "title": "Tic-Tac-Toe",
+                "description": "Build a fun two-person Tic-Tac-Toe game. Use professional programming techniques to solve data-modeling problems, write elegant JavaScript code, and apply higher level concepts like object-oriented programming.",
+                "tech": ["html", "css", "JavaScript"],
+                "demo": "http://bunnana.com/projects/TicTacToe/",
+                "gitRepo": "https://github.com/nooice/project-4",
+                "img1": "/static/img/p4-1.jpg",
+                "img2": "/static/img/p4-2.jpg",
+                "img3": "/static/img/p4-3.jpg",
+                "thumb": "/static/img/p4-4.jpg"
+            },
+            {
+                "title": "Movie Search App",
+                "description": "Use JavaScript to communicate with another website using an API (application programming interface) to retrieve and display information about your favorite albums. You’ll create a form to search and view information about films while practicing your skills using AJAX to load data from a server.",
+                "tech": ["html", "css", "JavaScript", "AJAX"],
+                "demo": "http://bunnana.com/projects/movie_search/",
+                "gitRepo": "https://github.com/nooice/project-5",
+                "img1": "/static/img/p5-1.jpg",
+                "img2": "/static/img/p5-2.jpg",
+                "img3": "/static/img/p5-3.jpg",
+                "thumb": "/static/img/p5-4.jpg"
             }
         ]
     } 

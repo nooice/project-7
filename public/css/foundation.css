@@ -5001,8 +5001,8 @@ a.thumbnail {
     box-shadow: none; }
 
 .title-bar {
-  padding: 0.5rem;
-  background: #0a0a0a;
+  padding: 1rem;
+  background: #2d435d;
   color: #fefefe;
   display: -ms-flexbox;
   display: flex;
@@ -5023,6 +5023,7 @@ a.thumbnail {
   text-align: right; }
 
 .title-bar-title {
+  padding-left: .8rem;
   display: inline-block;
   vertical-align: middle;
   font-weight: bold; }

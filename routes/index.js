@@ -11,8 +11,12 @@ router.get('/about', (req, res) => {
     res.render('about');
 });
 
+router.get('/projects', (req, res) => {
+    res.redirect('/');
+});
+
 router.get('/project', (req, res) => {
-    res.render('project');
+    res.redirect('/');
 });
 
 module.exports = router;
