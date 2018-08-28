@@ -4,7 +4,11 @@
             "name": "Kalvin Bunn",
             "email": "mrbunn@me.com",
             "phone": "208-250-7331",
-            "skills": ["JavaScript", "node.js", "Express", "HTML", "CSS", "pug"]
+            "skills": ["JavaScript", "node.js", "Express", "HTML", "CSS", "pug"],
+            "linkedIn": "https://www.linkedin.com/in/kalvin-bunn-42624172/",
+            "gitHub": "https://github.com/nooice",
+            "twitter": "https://twitter.com/imagetskanky"
+
         },
         "projects": [
             {
@@ -61,6 +65,17 @@
                 "img2": "/static/img/p5-2.jpg",
                 "img3": "/static/img/p5-3.jpg",
                 "thumb": "/static/img/p5-4.jpg"
+            },
+            {
+                "title": "Content Scraper",
+                "description": "Build a data-mining application using Node.js. JavaScript isn't just for browsers — it can be used on web servers and even your own computer. Create a command-line application to read a web page, extract information, and store the data in a text file.",
+                "tech": ["node.js", "npm"],
+                "demo": "",
+                "gitRepo": "https://github.com/nooice/project-6",
+                "img1": "/static/img/p6-1.png",
+                "img2": "/static/img/p6-2.png",
+                "img3": "/static/img/p6-3.png",
+                "thumb": "/static/img/p6-4.png"
             }
         ]
     } 
