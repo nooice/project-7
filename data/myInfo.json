@@ -7,8 +7,8 @@
             "skills": ["JavaScript", "node.js", "Express", "HTML", "CSS", "pug"],
             "linkedIn": "https://www.linkedin.com/in/kalvin-bunn-42624172/",
             "gitHub": "https://github.com/nooice",
-            "twitter": "https://twitter.com/imagetskanky"
-
+            "twitter": "https://twitter.com/imagetskanky",
+            "picture": "/static/img/profile.jpg"
         },
         "projects": [
             {
