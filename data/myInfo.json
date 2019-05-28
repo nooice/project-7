@@ -70,6 +70,16 @@
                 "github_link": "https://github.com/nooice/project-6",
                 "image_urls": ["/static/img/p6-1.png", "/static/img/p6-2.png", "/static/img/p6-3.png"],
                 "thumb": "/static/img/p6-4.png"
+            },
+            {
+                "id": 7,
+                "project_name": "Color Palette",
+                "description": "Color Palette is my biggest project yet. It is one massive capstone application, complete with drag & drop, animations, route transitions, complex form validations, and more.",
+                "technologies": ["React", "React Routes", "React Switch", "Material UI"],
+                "live_link": "https://color-palette-mrbunn.herokuapp.com",
+                "github_link": "https://github.com/nooice/color-palette",
+                "image_urls": ["/static/img/p7-1.png", "/static/img/p7-2.png", "/static/img/p7-3.png"],
+                "thumb": "/static/img/p7-4.png"
             }
         ]
     } 
